@@ -81,6 +81,6 @@ if(showhide == "show"){
 <input type="submit" class="btn btn-outline-dark" value="რეგისტრაცია" />
 </div>
 </form>
-<div style="padding: 5px; margin: 5px; text-align: left; position: fixed; left: 0; bottom: 0; color: black;">&copy; 20<?php echo date('y'); ?> <span class="badge text-bg-secondary"><a style="color: white;" href="https://ifastnet.com/portal/aff.php?aff=30975">პრემიუმი</a></span></div><div style="padding: 5px; margin: 5px; text-align: right; position: fixed; right: 0; bottom: 0;"><?php include 'stat.php'; ?></div>
+<div style="padding: 5px; margin: 5px; text-align: left; position: fixed; left: 0; bottom: 0; color: black;">&copy; <?php echo date('Y'); ?> <span class="badge text-bg-secondary"><a style="color: white;" href="https://ifastnet.com/portal/aff.php?aff=30975">პრემიუმი</a></span></div><div style="padding: 5px; margin: 5px; text-align: right; position: fixed; right: 0; bottom: 0;"><?php include 'stat.php'; ?></div>
 </body>
 </html>
